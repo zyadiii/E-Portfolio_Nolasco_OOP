@@ -27,6 +27,8 @@ nav {
     justify-content: space-between;
 }
 
+
+
 nav .pseudologo {
     font-size: 20px;
     letter-spacing: 3px;
@@ -45,6 +47,11 @@ nav .pseudologo {
     text-decoration: none;
     color: #e2e8f0;
     transition: 0.2s;
+}
+
+.nav-links a.active {
+  border-bottom: 2px solid #5e8eff;
+  padding-bottom: 4px;
 }
 
 .nav-links li a:hover {

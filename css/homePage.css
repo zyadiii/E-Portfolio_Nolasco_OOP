@@ -11,7 +11,7 @@
 
 .intro {
     background-color: rgba(9, 16, 34, 0.3);
-    padding: 50px;
+    padding: 20px;
     width: 100%;
     margin: 0 auto;
 }
@@ -20,7 +20,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    padding: 0px 10px 15px 0px;
+    padding: 0px 5px 15px 10px;
     font-size: 35px;
     font-family: Impact;
     letter-spacing: 2px;
@@ -66,7 +66,7 @@
 
 .beforeName {
     font-weight: bold;
-    font-family: monospace;
+    font-family: Times;
     padding-right: 5px;
     letter-spacing: 2px;
     font-style: italic;
